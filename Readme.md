@@ -9,7 +9,7 @@ Hello, in this lesson we will learn how to use markdown to create an engaging re
 - How to format code
 - How to embed images in your document
 
-## 3. Extensions You Will Need :cd:
+## 3. Extensions You Will Need 👨‍💻
 
 1. **GitHub Markdown Preview** by Matt Bierner
 2. **Docs-Images** by **Microsoft**
